@@ -38,7 +38,7 @@
             Getting started with Sprunki Mods is quick and easy:
         </p>
         <ol>
-            <li>Visit the official <a href="https://sprunkimod.github.io/" target="_blank">Sprunki Mods</a> website.</li>
+            <li>Visit <a href="https://sprunkimod.github.io/" target="_blank">Sprunki Mods</a> website.</li>
             <li>Browse through a variety of mods tailored to different preferences and styles.</li>
             <li>Download and install your chosen mods to instantly enhance your gaming experience.</li>
         </ol>
